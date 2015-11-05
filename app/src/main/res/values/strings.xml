@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Jumbo</string>
+
+    <string name="human_first">You Go First!</string>
+    <string name="human_turn">Your Turn!</string>
+    <string name="game_over">GAME OVER!!!!</string>
+    <string name="computer_turn">Computer\'s Turn!</string>
+    <string name="tied_game">Its A Tie!</string>
+    <string name="human_win">Congratulations! You Win!</string>
+    <string name="computer_win">Computer Wins!</string>
+    <string name="human">Human :</string>
+    <string name="ties">Ties :</string>
+    <string name="computer">Computer :</string>
+    <string name="one"></string>
+    <string name="two"></string>
+    <string name="three"></string>
+    <string name="four"></string>
+    <string name="five"></string>
+    <string name="six"></string>
+    <string name="seven"></string>
+    <string name="eight"></string>
+    <string name="nine"></string>
+    <string name="info">Info</string>
+    <string name="new_game">New Game</string>
+    <string name="exit_game">Exit Game</string>
+
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>
